@@ -8,7 +8,6 @@
 ##[id*="_0_0"]:not([id*="able"]):not([class*="able"]),[id*="_0_1"]:not([id*="able"]):not([class*="able"]),[id*="_0_2"]:not([id*="able"]):not([class*="able"]),[id*="_0_3"]:not([id*="able"]):not([class*="able"]),[id*="_1_0"]:not([id*="able"]):not([class*="able"]),[id*="_1_1"]:not([id*="able"]):not([class*="able"]),[id*="_1_2"]:not([id*="able"]):not([class*="able"]),[id*="_1_3"]:not([id*="able"]):not([class*="able"]),[id*="_2_0"]:not([id*="able"]):not([class*="able"]),[id*="_2_1"]:not([id*="able"]):not([class*="able"]),[id*="_2_2"]:not([id*="able"]):not([class*="able"]),[id*="_2_3"]:not([id*="able"]):not([class*="able"]),[id*="_3_0"]:not([id*="able"]):not([class*="able"]),[id*="_3_1"]:not([id*="able"]):not([class*="able"]),[id*="_3_2"]:not([id*="able"]):not([class*="able"]),[id*="_3_3"]:not([id*="able"]):not([class*="able"]),[id*="_4_0"]:not([id*="able"]):not([class*="able"]),[id*="_4_1"]:not([id*="able"]):not([class*="able"]),[id*="_4_2"]:not([id*="able"]):not([class*="able"]),[id*="_4_3"]:not([id*="able"]):not([class*="able"]),[id*="_5_0"]:not([id*="able"]):not([class*="able"]),[id*="_5_1"]:not([id*="able"]):not([class*="able"]),[id*="_5_2"]:not([id*="able"]):not([class*="able"]),[id*="_5_3"]:not([id*="able"]):not([class*="able"]),[id*="_6_0"]:not([id*="able"]):not([class*="able"]),[id*="_6_1"]:not([id*="able"]):not([class*="able"]),[id*="_6_2"]:not([id*="able"]):not([class*="able"]),[id*="_6_3"]:not([id*="able"]):not([class*="able"]),[id*="_7_0"]:not([id*="able"]):not([class*="able"]),[id*="_7_1"]:not([id*="able"]):not([class*="able"]),[id*="_7_2"]:not([id*="able"]):not([class*="able"]),[id*="_7_3"]:not([id*="able"]):not([class*="able"]),[id*="_8_0"]:not([id*="able"]):not([class*="able"]),[id*="_8_1"]:not([id*="able"]):not([class*="able"]),[id*="_8_2"]:not([id*="able"]):not([class*="able"]),[id*="_8_3"]:not([id*="able"]):not([class*="able"]),[id*="_9_0"]:not([id*="able"]):not([class*="able"]),[id*="_9_1"]:not([id*="able"]):not([class*="able"]),[id*="_9_2"]:not([id*="able"]):not([class*="able"]),[id*="_9_3"]:not([id*="able"]):not([class*="able"]),div[class*="ad"]:not([class*="add"]):not([class*="ade"]):not([class*="ead"]):not([class*="service"]):not([class*="rad"]):not([class*="oad"]):not([class*="pane"]):not([class*="tab"]):not([class*="adi"]):not([class*="had"]):not([class*="play"]):not([class*="adg"]):not([class*="ada"]):not([class*="adr"]):not([class*="adm"]):not([class*="sad"]):not([class*="pad"]):not([class*="mip"]):not([class*="ads"]),li >img[src*="cbu01.alicdn.com/img/ibank/"][alt],li >img[src*="cbu01.alicdn.com/img/ibank/"],[id*="BAIDU_DUP"],[class*="adsbygoogle"],div[style*="z-index"] >div[style*="url("][style*="z-index"],DIV[id*='BAIDU_DUP'],a[style*='important'] >img,center >a[target="_blank"] >img,a[target="_blank"] >img[src*="xhtml"],div[style*="fixed"] >a[target="_blank"] >img,a[rel*="nofollow"] >img:not([alt]),a[target="_blank"] >img[style*="width: 100"],a[target="_blank"] >img[style*="width:100"],a[href*="javascript"][onclick] >img,a[href*="s.click.taobao.com/"] >img[src],a[style*="fixed"][target] >img,script[async='async'],script[data-cfasync='false'],iframe[src*="Linux"],img[style*="112.5"],a[target="_blank"] >img[src*="gif"][src*="alicdn"],a[target="_blank"] >img[src*="ss-x7"],a[href="register"] >img,a[target="_blank"] >img[src*="gif"][src*="kanjiantu"],a[target="_blank"] >img[src*="gif"][src*="cdn.phpstudyimg.com"],[style*="important"][style*="url("],[style*="fixed"][style*="z-index"] >img,[style*="fixed"][style*="block"] >img,[onclick][data-href] >img,[onclick][data-url] >img,div[class*="Ad"]:not([class*="Add"]):not([class*="service"]):not([style*="bkimg.cdn.bcebos.com"]),a[href*=":1"][target*="_blank"]~a,a[href*=":0"][target*="_blank"]~a,a[href*=":2"][target*="_blank"]~a,a[href*=":3"][target*="_blank"]~a,a[href*=":4"][target*="_blank"]~a,a[href*=":5"][target*="_blank"]~a,a[href*=":6"][target*="_blank"]~a,a[href*=":7"][target*="_blank"]~a,a[href*=":8"][target*="_blank"]~a,a[href*=":9"][target*="_blank"]~a,[onload*="u()"],a[target="_blank"] >img[width*="100"]:not([style*="rgb("]),a[target="_blank"] >img[src*="sinaimg"]:not([style*="rgb("]):not([alt]),div >a[target="_blank"] >img[width*="100"],div >a[target="_blank"] >img[src*="gif"][src*="sinaimg"],p >img[width*="100"]:not([style*="rgb("]),p[onclick] >img[width*="100"],p[onclick] >img[style*="width:100"],p[onclick] >img[style*="width: 100"],.gg,a[href*=":1"][target] >img[src],a[href*=":0"][target] >img[src],a[href*=":2"][target] >img[src],a[href*=":3"][target] >img[src],a[href*=":4"][target] >img[src],a[href*=":5"][target] >img[src],a[href*=":6"][target] >img[src],a[href*=":7"][target] >img[src],a[href*=":8"][target] >img[src],a[href*=":9"][target] >img[src],a[href*="www.1"][target*="_blank"] >img[src],a[href*=".1"][target*="_blank"] >img[src],a[href*="www.0"][target*="_blank"] >img[src],a[href*="www.2"][target*="_blank"] >img[src],a[href*="www.3"][target*="_blank"] >img[src],a[href*="www.4"][target*="_blank"] >img[src],a[href*="www.5"][target*="_blank"] >img[src],a[href*="www.6"][target*="_blank"] >img[src],a[href*="www.7"][target*="_blank"] >img[src],a[href*="www.8"][target*="_blank"] >img[src],a[href*="www.9"][target*="_blank"] >img[src],a[target="_blank"] >div >img[style*="100"],a[href*="://9"] >img[src],a[href*="://5"] >img[src],a[href*="://6"] >img[src],a[href*="://7"] >img[src],a[href*="://8"] >img[src],a[href*="://1"] >img[src],a[href*="://2"] >img[src],a[href*="://3"] >img[src],a[href*="://4"] >img[src],a[href*="://0"] >img[src],brde
 
 
-*?*=*&*=*&*=*&*=*&*=*&*=*&*swt=*
 
 ||tanx.com^$third-party,domain=~1688.com|~alimama.com|~tmall.com|~www.taobao.com
 @@||livew.l.qq.com/livemsg?pf=H5&ad$domain=m.v.qq.com
@@ -82,12 +81,9 @@ data.newrank.cn##DIV[class='search-inaccount-model-default-link'],SPAN[class='ic
 
 
 
-*//*:*.html$third-party
 sv?gp=
 *Linux*$third-party
-*/*.aspx?*=*$third-party
-*/*.xhtmlx$third-party
-*/*.ashx?*=*$third-party
+
 
 *foot.asp$third-party
 *&timestamp=*$third-party
@@ -111,7 +107,6 @@ alicdn.com/*.gif
 ||51.la^
 /jpg/*.gif
 ||pv.ldlwdsx.com^
-/ad^
 /c.php?
 /*match?id=*
 ||www.zhihu.com/api/v4/questions/*/meta_related_topics?
@@ -140,7 +135,6 @@ psCreat.js?*
 *:*/pv.php?*$third-party
 ||gm.mmstat.com^
 /foot*.js
-autocomplete.js
 /safe/liulanqi/
 https://api.*.com/api/code?*=*$third-party
 https://*.*.com/*.html?|$third-party
