@@ -1,26 +1,108 @@
-!!通用规则
-*?*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=http*$third-party
-*?*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=http*$~third-party,domain=~baidu.com
-*?*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*$third-party
-*?*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*$~third-party,domain=~baidu.com
-*=*,*&*=*?*=*$~third-party,domain=~baidu.com
+[Adblock Plus 3.1]
+! Checksum: i/SxZCZ0v5YxyqX3VrQQxB
+! Title: hkad
+! Expires: 2 days
+! Description: Filter for all known mobile ad networks. Useful for mobile devices.
+! Version: 20200725
+
+##[id*="_0_0"]:not([id*="able"]):not([class*="able"]),[id*="_0_1"]:not([id*="able"]):not([class*="able"]),[id*="_0_2"]:not([id*="able"]):not([class*="able"]),[id*="_0_3"]:not([id*="able"]):not([class*="able"]),[id*="_1_0"]:not([id*="able"]):not([class*="able"]),[id*="_1_1"]:not([id*="able"]):not([class*="able"]),[id*="_1_2"]:not([id*="able"]):not([class*="able"]),[id*="_1_3"]:not([id*="able"]):not([class*="able"]),[id*="_2_0"]:not([id*="able"]):not([class*="able"]),[id*="_2_1"]:not([id*="able"]):not([class*="able"]),[id*="_2_2"]:not([id*="able"]):not([class*="able"]),[id*="_2_3"]:not([id*="able"]):not([class*="able"]),[id*="_3_0"]:not([id*="able"]):not([class*="able"]),[id*="_3_1"]:not([id*="able"]):not([class*="able"]),[id*="_3_2"]:not([id*="able"]):not([class*="able"]),[id*="_3_3"]:not([id*="able"]):not([class*="able"]),[id*="_4_0"]:not([id*="able"]):not([class*="able"]),[id*="_4_1"]:not([id*="able"]):not([class*="able"]),[id*="_4_2"]:not([id*="able"]):not([class*="able"]),[id*="_4_3"]:not([id*="able"]):not([class*="able"]),[id*="_5_0"]:not([id*="able"]):not([class*="able"]),[id*="_5_1"]:not([id*="able"]):not([class*="able"]),[id*="_5_2"]:not([id*="able"]):not([class*="able"]),[id*="_5_3"]:not([id*="able"]):not([class*="able"]),[id*="_6_0"]:not([id*="able"]):not([class*="able"]),[id*="_6_1"]:not([id*="able"]):not([class*="able"]),[id*="_6_2"]:not([id*="able"]):not([class*="able"]),[id*="_6_3"]:not([id*="able"]):not([class*="able"]),[id*="_7_0"]:not([id*="able"]):not([class*="able"]),[id*="_7_1"]:not([id*="able"]):not([class*="able"]),[id*="_7_2"]:not([id*="able"]):not([class*="able"]),[id*="_7_3"]:not([id*="able"]):not([class*="able"]),[id*="_8_0"]:not([id*="able"]):not([class*="able"]),[id*="_8_1"]:not([id*="able"]):not([class*="able"]),[id*="_8_2"]:not([id*="able"]):not([class*="able"]),[id*="_8_3"]:not([id*="able"]):not([class*="able"]),[id*="_9_0"]:not([id*="able"]):not([class*="able"]),[id*="_9_1"]:not([id*="able"]):not([class*="able"]),[id*="_9_2"]:not([id*="able"]):not([class*="able"]),[id*="_9_3"]:not([id*="able"]):not([class*="able"]),div[class*="ad"]:not([class*="add"]):not([class*="ade"]):not([class*="ead"]):not([class*="service"]):not([class*="rad"]):not([class*="oad"]):not([class*="pane"]):not([class*="tab"]):not([class*="adi"]):not([class*="had"]):not([class*="play"]):not([class*="adg"]):not([class*="ada"]):not([class*="adr"]):not([class*="adm"]):not([class*="sad"]):not([class*="pad"]):not([class*="mip"]):not([class*="ads"]),li >img[src*="cbu01.alicdn.com/img/ibank/"][alt],li >img[src*="cbu01.alicdn.com/img/ibank/"],[id*="BAIDU_DUP"],[class*="adsbygoogle"],div[style*="z-index"] >div[style*="url("][style*="z-index"],DIV[id*='BAIDU_DUP'],a[style*='important'] >img,center >a[target="_blank"] >img,a[target="_blank"] >img[src*="xhtml"],div[style*="fixed"] >a[target="_blank"] >img,a[rel*="nofollow"] >img:not([alt]),a[target="_blank"] >img[style*="width: 100"],a[target="_blank"] >img[style*="width:100"],a[href*="javascript"][onclick] >img,a[href*="s.click.taobao.com/"] >img[src],a[style*="fixed"][target] >img,script[async='async'],script[data-cfasync='false'],iframe[src*="Linux"],img[style*="112.5"],a[target="_blank"] >img[src*="gif"][src*="alicdn"],a[target="_blank"] >img[src*="ss-x7"],a[href="register"] >img,a[target="_blank"] >img[src*="gif"][src*="kanjiantu"],a[target="_blank"] >img[src*="gif"][src*="cdn.phpstudyimg.com"],[style*="important"][style*="url("],[style*="fixed"][style*="z-index"] >img,[style*="fixed"][style*="block"] >img,[onclick][data-href] >img,[onclick][data-url] >img,div[class*="Ad"]:not([class*="Add"]):not([class*="service"]):not([style*="bkimg.cdn.bcebos.com"]),a[href*=":1"][target*="_blank"]~a,a[href*=":0"][target*="_blank"]~a,a[href*=":2"][target*="_blank"]~a,a[href*=":3"][target*="_blank"]~a,a[href*=":4"][target*="_blank"]~a,a[href*=":5"][target*="_blank"]~a,a[href*=":6"][target*="_blank"]~a,a[href*=":7"][target*="_blank"]~a,a[href*=":8"][target*="_blank"]~a,a[href*=":9"][target*="_blank"]~a,[onload*="u()"],a[target="_blank"] >img[width*="100"]:not([style*="rgb("]),a[target="_blank"] >img[src*="sinaimg"]:not([style*="rgb("]):not([alt]),div >a[target="_blank"] >img[width*="100"],div >a[target="_blank"] >img[src*="gif"][src*="sinaimg"],p >img[width*="100"]:not([style*="rgb("]),p[onclick] >img[width*="100"],p[onclick] >img[style*="width:100"],p[onclick] >img[style*="width: 100"],.gg,a[href*=":1"][target] >img[src],a[href*=":0"][target] >img[src],a[href*=":2"][target] >img[src],a[href*=":3"][target] >img[src],a[href*=":4"][target] >img[src],a[href*=":5"][target] >img[src],a[href*=":6"][target] >img[src],a[href*=":7"][target] >img[src],a[href*=":8"][target] >img[src],a[href*=":9"][target] >img[src],a[href*="www.1"][target*="_blank"] >img[src],a[href*=".1"][target*="_blank"] >img[src],a[href*="www.0"][target*="_blank"] >img[src],a[href*="www.2"][target*="_blank"] >img[src],a[href*="www.3"][target*="_blank"] >img[src],a[href*="www.4"][target*="_blank"] >img[src],a[href*="www.5"][target*="_blank"] >img[src],a[href*="www.6"][target*="_blank"] >img[src],a[href*="www.7"][target*="_blank"] >img[src],a[href*="www.8"][target*="_blank"] >img[src],a[href*="www.9"][target*="_blank"] >img[src],a[target="_blank"] >div >img[style*="100"],a[href*="://9"] >img[src],a[href*="://5"] >img[src],a[href*="://6"] >img[src],a[href*="://7"] >img[src],a[href*="://8"] >img[src],a[href*="://1"] >img[src],a[href*="://2"] >img[src],a[href*="://3"] >img[src],a[href*="://4"] >img[src],a[href*="://0"] >img[src],brde
+
+
+*?*=*&*=*&*=*&*=*&*=*&*=*&*swt=*
+
+||tanx.com^$third-party,domain=~1688.com|~alimama.com|~tmall.com|~www.taobao.com
+@@||livew.l.qq.com/livemsg?pf=H5&ad$domain=m.v.qq.com
+/variety.tc.qq.com/*.mp4?
+||miaozhen.com^$third-party
+||qq.com/livemsg?
+@@||youku.com/cms/player/userinfo/
+||atm.youku.com^
+!!通过规则避开
+@@*adsbygoogle.js
+@@adservice.google.com/*.js?domain=*
+@@www.googletagservices.com/activeview/js/current/osd.js?*
+!!百度家
+www.baidu.com,m.baidu.com##div[class*="c-container"][class*="na-ec-item"][class*="na-ec-combination-item-container"],div[class*="c-img-auto"][class*="c-img-item"],div[class*="egg-red-"]
+news.baidu.com##DIV[class='swipe-backflow-container'],DIV[class='hot-scroll-news-container clearfix'],A[href='javascript:void(0)']
+m.baidu.com,baijiahao.baidu.com##DIV[class='outmargin'],DIV[class='contentSize contentPadding']
+jump2.bdimg.com,tieba.baidu.com##DIV[class='pb_cut_hot_recommend'],DIV[class='appPromote_wrapper scale-1px-bottom'],IMG[src*='internal-amis-res.cdn.bcebos.com'],IMG[class='fixed_bar_close'],div[class*='list_item_wrapper j_click_stats'],li[class*="shadow_new"]:not([data-tid])
+wapbaike.baidu.com##DIV#theme_container,div[id*="recommend_container"][class*="container"],DIV#relative_shop_yitiao
+zhidao.baidu.com##DIV[class='doodle-container show'],DIV[class='doodle-close']
+baike.baidu.com##div[id*="recommend_container"][class*="recommend-container"]
+||baidu.com/api/wapui/getrelatedbusiness?
+baidu.com###relative_shop_flow
+baidu.com##.afd-item
+/afd/entry
+wk.baidu.com##IMG[src*='edu-wenku.bdimg.com']
+baidu.com##.afd-item
+!!阿里家
+m.uczzd.cn##DIV[data-ad_url*="http"]
+iflow.uc.cn##div.huichuan-outside-ad
+broccoli.uc.cn##DIV[class='zan-btn']
+!!腾讯家
+qq.com##li[data-adtype="qbad"] > a[class^="type"],#image_ad,IMG[src*='//fcccdn.qq.com/common/txnews']
+!!头条家
+toutiaocdn.com,toutiao.com##A[data-tag*='ad.platform.site'],div[class*="recommendation-item"],div[class*="bottom-banner-container"],div[class*="top-banner-container"],div[class*="img-download-banner"],A[class='download-text']
+!!知乎
+zhihu.com##.MBannerAd
+!!搜狐
+sohu.com##DIV[class='art-sogou-hotw'],HEADER[class='rec__head'],DIV[class='feed-list-scoped'],A[href='javascript:void(0);'],div[class='nice-container'],SECTION[class='select-wrapper']
+
+!!网易
+163.com##DIV[class='open js-open-newsapp js-slider-open'],DIV[class='m-slider-footer'],A[class='js-open-newsapp'],DIV[class='u-wrap u-column'],IMG[src*='yt-adp.ws.126.net'],DIV[class='uc-fixed-ad-wrap'],DIV[class='uc-fixed-ad-close'],DIV[class='doc-footer-wrapper'],div[class*='hot_news'][class*='-'],div[class*='carousel-news'],section[class*='m_article'][class*='list-item'][class*='app'],DIV[class='widget-slider-article-content'],div[class*="hudongBaike"],DIV[class='u-tip'],DIV[class='widget-slider-article-simple']
+163.com##article[block-name*="headline"]
+163.com##.a_topad
+!!搜狗
+sogou.com##DIV[data-iurl*='dsp.brand.sogou.com'],DIV[class='imgtext-column guide-box'],A[class='recommend-wrap recommend-video border-top js_recommend'],DIV[class='vr-recommend'],IMG[style='width:100%;vertical-align:top;'],A[class='recommend-wrap app-recommend space-txt js_recommend']
+sogou.com##DIV[class='diet-aim']
+!!一点资讯
+www.yidianzixun.com##DIV[class='banner clickable'],A[class='banner plan-default plan-default1 plan-gov'],DIV[class='article-readmore-btn']
+!!新浪
+sina.cn##div.ad_baner.j_imgdelay,section > div.article_push,div.advertise,[class^="j_sax sina_tj_"],div.pic-wrap.j_article_cutpic,a[id^="jdAdplace"],[id^="_145595"],.sina_tj_banner,[data-id^="PDPS0000000"],.sax_banner_bottom,section[id^="_148751"],[class="extend-module j_hotpic_box"],.tj-list_md,[class^="article article-sax"],[class^="module-ads"],.s_card.z_c3,[data-adid],DIV[class='popup-mask confirm-popup-mask popup-open'],A[class='module-finance-client2 totop']
+||pfp.sina.net/ea/ad/
+||sa.sina.cn^
+||sina.com.cn/litong/
+ent.sina.cn##IMG[src*='n.sinaimg.cn']
+!!360
+so.com##div[class*='ad-card'],.cmclk,DIV[class*='tg-wrap']
+m.news.so.com##article[data-type*='ad_mcom']
+m.video.360kan.com##li[class*='sh-media-small']
+||lianmeng.360.cn^$domain=~lianmeng.360.cn
+!!其他
+www.rmdown.com##IMG[src*='.']
+
+www.lanzous.com##A[href*='analytics.woozooo.com']
+translate.google.cn##DIV[class='ad-panel at-promo show-panel']
+www.qzts.gov.cn##TD[style='cursor:hand']
+www.bilibili.com##DIV[class='h5-download-bar clearfix'],DIV[class='h5-download-bar clearfix']
+m.guancha.cn##DIV#goapp
+www.yidianzixun.com##A[class='banner']
+data.newrank.cn##DIV[class='search-inaccount-model-default-link'],SPAN[class='iconfont icon-xdn-hns']
+
+
+
+
 *//*:*.html$third-party
 sv?gp=
 *Linux*$third-party
 */*.aspx?*=*$third-party
 */*.xhtmlx$third-party
 */*.ashx?*=*$third-party
-*/stat*.html*$third-party
+
 *foot.asp$third-party
 *&timestamp=*$third-party
 *time=0.*$third-party
-http*$third-party,script
 */*xhtml?*$third-party
-*/*.html?$third-party
-||*.baidu.com/$domain=~baidu.com
 */xbb/*.htm#nbb*
 */gg/*.gif
-!!规则
+https://*.*.*:*/*.php?op=pv*$third-party
+https://*.*.*:*/*.php?*=*&*=*/*+*+*+*+*$third-party
+https://*.*.*/bid?url=http*=*$third-party
+*:*/*.php?*=*&*site*=*$third-party
+https://*.com//*_*.php?id=*
+
+
+
 alicdn.com/*.gif
 ||zhihu-web-analytics.zhihu.com^
 ||cnzz.com^
@@ -28,16 +110,10 @@ alicdn.com/*.gif
 ||js.mzxxiend.com^
 ||51.la^
 /jpg/*.gif
-||zhidao.baidu.com/m/static^
 ||pv.ldlwdsx.com^
-||push.zhanzhang.baidu.com
-||static.tieba.baidu.com/tb/img/track.gif
 /ad^
 /c.php?
 /*match?id=*
-||hiphotos.baidu.com/fex/pic/item^
-||zhidao.baidu.com/mobile/ajax^
-||nsclick.baidu.com/$domain=~www.hao123.com
 ||www.zhihu.com/api/v4/questions/*/meta_related_topics?
 /sinaads*
 |http://*_ads.js|$script,domain=~epinv.com
@@ -57,22 +133,19 @@ alicdn.com/*.gif
 ||same.eastmoney.com^
 psCreat.js?*
 ||jiathis.com$third-party
-*?*=*&*=*Linux*$third-party,domain=~baidu.com
-||ip.ws.126.net^
-*?*=*&*=*Linux*$~third-party,domain=~baidu.com
+
+
 ||adserver.juicyads.com^
 1080x2340
 *:*/pv.php?*$third-party
 ||gm.mmstat.com^
 /foot*.js
 autocomplete.js
-||pos.baidu.com^
 /safe/liulanqi/
 https://api.*.com/api/code?*=*$third-party
 https://*.*.com/*.html?|$third-party
 ||imgstatic.ctfile.com^
 *jpg*/*.gif
-*alicdn.com*img*ibank*2020*_*.jpg
 ae01.alicdn.com/*/*.gif
 kanjiantu.com*images*.gif
 www.1990tu.com/*/2020*.gif
@@ -80,7 +153,6 @@ www.1990tu.com/*/2020*.gif
 *alicdn.com*img*ibank*2019*_*.jpg
 /ads/*.gif
 @@translate.google
-||cpro.baidustatic.com^
 */*(com?*
 ||z.moatads.com^
 /tj.js
@@ -88,141 +160,35 @@ https://xn--*.*:*/*.js
 */adshow.php?adzone=*
 */*.php?pid=*$third-party
 *kanjiantu*gif*
-!!视频
-||tanx.com^$third-party,domain=~1688.com|~alimama.com|~tmall.com|~www.taobao.com
-@@||livew.l.qq.com/livemsg?pf=H5&ad$domain=m.v.qq.com
-/variety.tc.qq.com/*.mp4?
-||miaozhen.com^$third-party
-||qq.com/livemsg?
-@@||youku.com/cms/player/userinfo/
-||atm.youku.com^
-!!通过规则避开
-@@timg?*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=http*
-@@it/u=*,*&*=*?*=*$third-party
-@@api.php?*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*
-@@timg?wapbaike*&*=*&*=*&*=http*
-@@image?src=*&*=*&*=*&*=*&*=*&*=*&*=*&*=http*
-@@*event*?*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*$third-party
-@@*event*?*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*$~third-party,domain=~baidu.com
-@@playinfo*?*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*&*=*$~third-party,domain=~baidu.com
-@@jx.php?*=
-@@https://*.html#eqid=
-@@rmdown.com/ads
-@@.m3u8
-@@://www.mgtv.com/*.html
-@@://www.iqiyi.com/*.html
-@@://v.qq.com/*.html
-@@rev.uar.hubpd.com
-@@search_loading.gif
-@@||timg01.bdimg.com$third-party
-@@tt.js
-@@*post*$third-party,script
-@@github.githubassets.com/assets/frameworks*
-@@/wap.js
-@@*get.json?vid*
-@@*hiphotos.baidu.com/*/sign=*
-!!百度家
-www.baidu.com,m.baidu.com##div[class*="c-container"][class*="na-ec-item"][class*="na-ec-combination-item-container"],div[class*="c-img-auto"][class*="c-img-item"],div[class*="egg-red-"]
-news.baidu.com##DIV[class='swipe-backflow-container'],DIV[class='hot-scroll-news-container clearfix'],A[href='javascript:void(0)']
-m.baidu.com,baijiahao.baidu.com##DIV[class='outmargin'],DIV[class='contentSize contentPadding']
-jump2.bdimg.com,tieba.baidu.com##DIV[class='pb_cut_hot_recommend'],DIV[class='appPromote_wrapper scale-1px-bottom'],IMG[src*='internal-amis-res.cdn.bcebos.com'],IMG[class='fixed_bar_close'],div[class*='list_item_wrapper j_click_stats'],li[class*="shadow_new"]:not([data-tid])
-wapbaike.baidu.com##DIV#theme_container,div[id*="recommend_container"][class*="container"],DIV#relative_shop_yitiao
-zhidao.baidu.com##DIV[class='doodle-container show'],DIV[class='doodle-close']
-baike.baidu.com##div[id*="recommend_container"][class*="recommend-container"]
-||baidu.com/api/wapui/getrelatedbusiness?
-baidu.com###relative_shop_flow
-!!阿里家
-m.uczzd.cn##DIV[data-ad_url*="http"]
-iflow.uc.cn##div.huichuan-outside-ad
-broccoli.uc.cn##DIV[class='zan-btn']
-!!腾讯家
-qq.com##li[data-adtype="qbad"] > a[class^="type"],#image_ad,IMG[src*='//fcccdn.qq.com/common/txnews']
-!!头条家
-toutiao.com##A[data-tag*='ad.platform.site'],div[class*="recommendation-item"],div[class*="bottom-banner-container"],div[class*="top-banner-container"],div[class*="img-download-banner"],A[class='download-text']
-!!知乎
-zhihu.com##.MBannerAd
-!!搜狐
-sohu.com##DIV[class='art-sogou-hotw'],HEADER[class='rec__head'],DIV[class='feed-list-scoped'],A[href='javascript:void(0);']
-v2.sohu.com/integration-api/
-!!网易
-163.com##DIV[class='open js-open-newsapp js-slider-open'],DIV[class='m-slider-footer'],A[class='js-open-newsapp'],DIV[class='u-wrap u-column'],IMG[src*='yt-adp.ws.126.net'],DIV[class='uc-fixed-ad-wrap'],DIV[class='uc-fixed-ad-close']
-!!一点资讯
-www.yidianzixun.com##DIV[class='banner clickable'],A[class='banner plan-default plan-default1 plan-gov'],DIV[class='article-readmore-btn']
-!!新浪
-sina.cn##div.ad_baner.j_imgdelay,section > div.article_push,div.advertise,[class^="j_sax sina_tj_"],div.pic-wrap.j_article_cutpic,a[id^="jdAdplace"],[id^="_145595"],.sina_tj_banner,[data-id^="PDPS0000000"],.sax_banner_bottom,section[id^="_148751"],[class="extend-module j_hotpic_box"],.tj-list_md,[class^="article article-sax"],[class^="module-ads"],.s_card.z_c3,[data-adid]
-!!其他
-www.rmdown.com##IMG[src*='.']
-cn.bing.com##DIV#TopApp
-www.lanzous.com##A[href*='analytics.woozooo.com']
-translate.google.cn##DIV[class='ad-panel at-promo show-panel']
-www.qzts.gov.cn##TD[style='cursor:hand']
-m.so.com##div[class*='ad-card']
-www.bilibili.com##DIV[class='h5-download-bar clearfix'],DIV[class='h5-download-bar clearfix']
-m.guancha.cn##DIV#goapp
-!!本域名脚本及例外
-http*$~third-party,script
-@@*min*$~third-party,script
-@@*vue*$~third-party,script
-@@*jquery*$~third-party,script
-@@*boot*$~third-party,script
-@@*load*$~third-party,script
-@@*play*$~third-party,script
-@@*/lib/*$~third-party,script
-@@*video*$~third-party,script
-@@*cloud*$~third-party,script
-@@*share*$~third-party,script
-@@*vendor*$~third-party,script
-@@*/static*$~third-party,script
-@@*index*$~third-party,script
-@@*image*$~third-party,script
-@@*asset*$~third-party,script
-@@*common*$~third-party,script
-@@*function*$~third-party,script
-@@*outer*$~third-party,script
-@@*detail*$~third-party,script
-@@*chunk*$~third-party,script
-@@*app*$~third-party,script
-@@*public*$~third-party,script
-@@*main*$~third-party,script
-@@*hls*$~third-party,script
-@@*content*$~third-party,script
-@@*home*$~third-party,script
-@@*css*$~third-party,script
-!!第三方脚本与例外
-http*$third-party,script
-@@*log*$third-party,script
-@@*item*$third-party,script
-@@*trend*$third-party,script
-@@*asset*$third-party,script
-@@*/static*$third-party,script
-@@*min*$third-party,script
-@@*vue*$third-party,script
-@@*jquery*$third-party,script
-@@*boot*$third-party,script
-@@*crypto*$third-party,script
-@@*load*$third-party,script
-@@*play*$third-party,script
-@@*/lib/*$third-party,script
-@@*css*$third-party,script
-@@*video*$third-party,script
-@@mini.meitiantv
-@@*hls*$third-party,script
-@@res.wx.qq.com
-@@*extend*$third-party,script
-@@*img*$third-party,script
-@@*stats*$third-party,script
-@@*cloud*$third-party,script
-@@*build*$third-party,script
-@@*file*$third-party,script
-@@*share*$third-party,script
-@@*vendor*$third-party,script
-@@*gallery*$third-party,script
-@@*welcome*$third-party,script
-@@*index*$third-party,script
-@@*weixin*$third-party,script
-@@*image*$third-party,script
-@@*article*$third-party,script
-!!通用标记
-##DIV[id*='BAIDU_DUP'],a[style*='important'] >img,center >a[target="_blank"] >img,a[target="_blank"] >img[src*="xhtml"],div[style*="fixed"] >a[target="_blank"] >img,a[rel*="nofollow"] >img,a[target="_blank"] >img[style*="width: 100"],a[target="_blank"] >img[style*="width:100"],a[href*="javascript"][target] >img,a[href*="javascript"][onclick] >img,a[href*="s.click.taobao.com/"] >img[src],a[style*="fixed"][target] >img,script[async='async'],script[data-cfasync='false'],link[rel*="prefetch"],iframe[src*="Linux"],img[style*="112.5"],a[target="_blank"] >img[src*="gif"][src*="alicdn"],a[target="_blank"] >img[src*="ss-x7"],a[href="register"] >img,a[target="_blank"] >img[src*="gif"][src*="kanjiantu"],a[target="_blank"] >img[src*="gif"][src*="cdn.phpstudyimg.com"],[class*="animated"]:not([class*="bar"]):not([class*="tab"]):not([class*="touch"]):not([class*="css"]):not([class*="opacity"]),[style*="important"][style*="url("],[style*="fixed"][style*="z-index"] >img,[style*="fixed"][style*="block"] >img,[onclick][data-href] >img,[onclick][data-url] >img,div[class*="ad"]:not([class*="add"]):not([class*="ade"]):not([class*="ead"]):not([class*="service"]):not([class*="rad"]):not([class*="oad"]):not([class*="pane"]):not([class*="tab"]):not([class*="adi"]):not([class*="had"]):not([class*="play"]):not([class*="adg"]):not([class*="ada"]):not([class*="adr"]):not([class*="adm"]):not([class*="sad"]):not([class*="pad"]),div[id*="ad"]:not([id*="add"]):not([id*="ade"]):not([id*="ead"]):not([id*="service"]):not([id*="rad"]):not([id*="oad"]):not([id*="pane"]):not([id*="tab"]):not([id*="adi"]):not([id*="had"]):not([id*="play"]):not([id*="adg"]):not([id*="ada"]):not([id*="adr"]):not([id*="adm"]):not([id*="sad"]):not([id*="pad"]),div[class*="Ad"]:not([class*="Add"]):not([class*="service"]):not([style*="bkimg.cdn.bcebos.com"]),div[id*="Ad"]:not([id*="Add"]):not([id*="service"]):not([style*="bkimg.cdn.bcebos.com"]),a[href*=":1"][target*="_blank"]~a,a[href*=".1"][target*="_blank"]~a,a[href*=":0"][target*="_blank"]~a,a[href*=":2"][target*="_blank"]~a,a[href*=":3"][target*="_blank"]~a,a[href*=":4"][target*="_blank"]~a,a[href*=":5"][target*="_blank"]~a,a[href*=":6"][target*="_blank"]~a,a[href*=":7"][target*="_blank"]~a,a[href*=":8"][target*="_blank"]~a,a[href*=":9"][target*="_blank"]~a,img[src*="alicdn.com"][src*="ibank"],[onload*="u()"],a[target="_blank"] >img[width*="100"]:not([style*="rgb("]),a[target="_blank"] >img[src*="sinaimg"]:not([style*="rgb("]),div >a[target="_blank"] >img[width*="100"],div >a[target="_blank"] >img[src*="gif"][src*="sinaimg"],p >img[width*="100"]:not([style*="rgb("]),p[onclick] >img[width*="100"],p[onclick] >img[style*="width:100"],p[onclick] >img[style*="width: 100"],.gg
+/c.php?
+*/safe/stat/*
+||imagecdn.doallsoft.com^
+/20*/dpz/*.gif
+/img/cx778
+||at*.doubanio.com^
+||safe524.xyz^
+
+*/xbb/mb/*
+*dbbwap*html*$third-party
+*cnzz*html*$third-party
+||auspiciousvp.com^
+chushoushijian.cn
+auspiciousvp.com
+||tanx.com^$third-party
+||news.ssp.qq.com/app
+*?exte_id=*&*=&*=&*=*&*=*
+alicdn.com/imgextra/*/=_!!*.jpg
+.png!thumbnail
+@@/crod.js
+*/show/*/*?t=*&r=*$third-party
+/afd/entry
+||g.163.com/*&affiliate=
+||163.com/wap/special/article_cooper_piapia/
+||163.com/q?c=*&t=wap_stream&l=
+@@ndstatic.cdn.bcebos.com
+
+*/re?p=*=*$third-party
+*/*stat.php?id=*$third-party
+*cnzz*.gif
 
 
