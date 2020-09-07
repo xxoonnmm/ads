@@ -185,4 +185,5 @@ alicdn.com/imgextra/*/=_!!*.jpg
 */*stat.php?id=*$third-party
 *cnzz*.gif
 
+www.95598.cn##div#xiaoI,li.feedBack,li#topBtn
 
