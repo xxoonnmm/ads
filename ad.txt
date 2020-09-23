@@ -3,10 +3,136 @@
 ! Title: hkad
 ! Expires: 1 days
 ! Description: Filter for all known mobile ad networks. Useful for mobile devices.
-! Version: 2020091901
+! Version: 20200923
+
+//单一
+##.duilian_con
+##video[poster]
+##ins[id]
+##.brde
+##brde[id]
+##.gg
+##[id*="BAIDU_DUP"]
+##[class*="adsbygoogle"]
+##[onload*="u()"]
+##[style*="important"][style*="url("]
+##iframe[src*="Linux"]
+##iframe[src*='pos.baidu.com']
+##img[style*="112.5"]
+##script[async='async']
+##script[data-cfasync='false']
+##script[src*='pos.baidu.com']
+##div[class*="ad"]:not([class*="add"]):not([class*="ade"]):not([class*="ead"]):not([class*="service"]):not([class*="rad"]):not([class*="oad"]):not([class*="pane"]):not([class*="tab"]):not([class*="adi"]):not([class*="had"]):not([class*="play"]):not([class*="adg"]):not([class*="ada"]):not([class*="adr"]):not([class*="adm"]):not([class*="sad"]):not([class*="pad"]):not([class*="mip"]):not([class*="ads"]):not([class*="ady"])
+##div[class*="Ad"]:not([class*="Add"]):not([class*="service"]):not([style*="bkimg.cdn.bcebos.com"])
+##div[src*='pos.baidu.com']
 
 
-##div[class*="ad"]:not([class*="add"]):not([class*="ade"]):not([class*="ead"]):not([class*="service"]):not([class*="rad"]):not([class*="oad"]):not([class*="pane"]):not([class*="tab"]):not([class*="adi"]):not([class*="had"]):not([class*="play"]):not([class*="adg"]):not([class*="ada"]):not([class*="adr"]):not([class*="adm"]):not([class*="sad"]):not([class*="pad"]):not([class*="mip"]):not([class*="ads"]):not([class*="ady"]),li >img[src*="cbu01.alicdn.com/img/ibank/"][alt],li >img[src*="cbu01.alicdn.com/img/ibank/"],[id*="BAIDU_DUP"],[class*="adsbygoogle"],div[style*="z-index"] >div[style*="url("][style*="z-index"],DIV[id*='BAIDU_DUP'],a[style*='important'] >img,center >a[target="_blank"] >img,a[target="_blank"] >img[src*="xhtml"],div[style*="fixed"] >a[target="_blank"] >img,a[rel*="nofollow"] >img:not([alt]),a[target="_blank"] >img[style*="width: 100"][src*="gif"],a[target="_blank"] >img[style*="width:100"],a[href*="javascript"][onclick] >img,a[href*="s.click.taobao.com/"] >img[src],a[style*="fixed"][target] >img,script[async='async'],script[data-cfasync='false'],iframe[src*="Linux"],img[style*="112.5"],a[target="_blank"] >img[src*="gif"][src*="alicdn"],a[target="_blank"] >img[src*="ss-x7"],a[href="register"] >img,a[target="_blank"] >img[src*="gif"][src*="kanjiantu"],a[target="_blank"] >img[src*="gif"][src*="cdn.phpstudyimg.com"],[style*="important"][style*="url("],[style*="fixed"][style*="z-index"] >img,[style*="fixed"][style*="block"] >img,[onclick][data-href] >img,[onclick][data-url] >img,div[class*="Ad"]:not([class*="Add"]):not([class*="service"]):not([style*="bkimg.cdn.bcebos.com"]),a[href*=":1"][target*="_blank"]~a,a[href*=":0"][target*="_blank"]~a,a[href*=":2"][target*="_blank"]~a,a[href*=":3"][target*="_blank"]~a,a[href*=":4"][target*="_blank"]~a,a[href*=":5"][target*="_blank"]~a,a[href*=":6"][target*="_blank"]~a,a[href*=":7"][target*="_blank"]~a,a[href*=":8"][target*="_blank"]~a,a[href*=":9"][target*="_blank"]~a,[onload*="u()"],a[target="_blank"] >img[width*="100"]:not([style*="rgb("]),a[target="_blank"] >img[src*="sinaimg"]:not([style*="rgb("]):not([alt]),div >a[target="_blank"] >img[width*="100"],div >a[target="_blank"] >img[src*="gif"][src*="sinaimg"],p[onclick] >img[width*="100"]:not([style*="rgb("]),p[onclick] >img[width*="100"],p[onclick] >img[style*="width:100"],p[onclick] >img[style*="width: 100"],.gg,a[href*=":1"][target] >img[src*="gif"],a[href*=":0"][target] >img[src*="gif"],a[href*=":2"][target] >img[src*="gif"],a[href*=":3"][target] >img[src*="gif"],a[href*=":4"][target] >img[src*="gif"],a[href*=":5"][target] >img[src*="gif"],a[href*=":6"][target] >img[src*="gif"],a[href*=":7"][target] >img[src*="gif"],a[href*=":8"][target] >img[src*="gif"],a[href*=":9"][target] >img[src*="gif"],a[href*="www.1"][target*="_blank"] >img[src*="gif"],a[href*=".1"][target*="_blank"] >img[src*="gif"],a[href*="www.0"][target*="_blank"] >img[src*="gif"],a[href*="www.2"][target*="_blank"] >img[src*="gif"],a[href*="www.3"][target*="_blank"] >img[src*="gif"],a[href*="www.4"][target*="_blank"] >img[src*="gif"],a[href*="www.5"][target*="_blank"] >img[src*="gif"],a[href*="www.6"][target*="_blank"] >img[src*="gif"],a[href*="www.7"][target*="_blank"] >img[src*="gif"],a[href*="www.8"][target*="_blank"] >img[src*="gif"],a[href*="www.9"][target*="_blank"] >img[src*="gif"],a[target="_blank"] >div >img[style*="100"],a[href*="://9"] >img[src*="gif"],a[href*="://5"] >img[src*="gif"],a[href*="://6"] >img[src*="gif"],a[href*="://7"] >img[src*="gif"],a[href*="://8"] >img[src*="gif"],a[href*="://1"] >img[src*="gif"],a[href*="://2"] >img[src*="gif"],a[href*="://3"] >img[src*="gif"],a[href*="://4"] >img[src*="gif"],a[href*="://0"] >img[src*="gif"],.brde
+//两个
+##div[style*="z-index"] >div[style*="url("][style*="z-index"]
+
+##li >img[src*="cbu01.alicdn.com/img/ibank/"][alt]
+##li >img[src*="cbu01.alicdn.com/img/ibank/"]
+
+##[style*="fixed"][style*="z-index"] >img
+##[style*="fixed"][style*="block"] >img
+
+##[onclick][data-href] >img
+##[onclick][data-url] >img
+
+##p[onclick] >img[width*="100"]:not([style*="rgb("])
+##p[onclick] >img[width*="100"]
+##p[onclick] >img[style*="width:100"]
+##p[onclick] >img[style*="width: 100"]
+
+
+##a[rel*="nofollow"] >img:not([alt])
+
+##a[style*='important'] >img
+##a[style*="fixed"][target] >img
+
+##a[target="_blank"] >img[src*="gif"][style*="important"][height*="132.5"]
+##a[target="_blank"] >img[width*="100"]:not([style*="rgb("])
+##a[target="_blank"] >img[style*="width: 100"][src*="gif"]
+##a[target="_blank"] >img[style*="width:100"]
+
+##a[target="_blank"] >img[src*="xhtml"]
+##a[target="_blank"] >img[src*="ss-x7"]
+##a[target="_blank"] >img[src*="gif"][src*="kanjiantu"]
+##a[target="_blank"] >img[src*="gif"][src*="cdn.phpstudyimg.com"]
+##a[target="_blank"] >img[src*="sinaimg"]:not([style*="rgb("]):not([alt])
+##a[target="_blank"] >img[src*="gif"][src*="alicdn"]
+
+
+
+##a[href*="javascript"][onclick] >img
+##a[href*="javascript"] >img[src*="gif"][style*="18px"]
+##a[href="register"] >img
+##a[href*="ReUrl"][target][onclick] >img
+##a[href*="s.click.taobao.com/"] >img[src]
+##a[href*=".1"][target*="_blank"] >img[src*="gif"]
+
+
+##a[href*=":0"][target] >img[src*="gif"]
+##a[href*=":1"][target] >img[src*="gif"]
+##a[href*=":2"][target] >img[src*="gif"]
+##a[href*=":3"][target] >img[src*="gif"]
+##a[href*=":4"][target] >img[src*="gif"]
+##a[href*=":5"][target] >img[src*="gif"]
+##a[href*=":6"][target] >img[src*="gif"]
+##a[href*=":7"][target] >img[src*="gif"]
+##a[href*=":8"][target] >img[src*="gif"]
+##a[href*=":9"][target] >img[src*="gif"]
+
+
+##a[href*="www.0"][target*="_blank"] >img[src*="gif"]
+##a[href*="www.1"][target*="_blank"] >img[src*="gif"]
+##a[href*="www.2"][target*="_blank"] >img[src*="gif"]
+##a[href*="www.3"][target*="_blank"] >img[src*="gif"]
+##a[href*="www.4"][target*="_blank"] >img[src*="gif"]
+##a[href*="www.5"][target*="_blank"] >img[src*="gif"]
+##a[href*="www.6"][target*="_blank"] >img[src*="gif"]
+##a[href*="www.7"][target*="_blank"] >img[src*="gif"]
+##a[href*="www.8"][target*="_blank"] >img[src*="gif"]
+##a[href*="www.9"][target*="_blank"] >img[src*="gif"]
+
+
+##a[href*="://9"] >img[src*="gif"]
+##a[href*="://5"] >img[src*="gif"]
+##a[href*="://6"] >img[src*="gif"]
+##a[href*="://7"] >img[src*="gif"]
+##a[href*="://8"] >img[src*="gif"]
+##a[href*="://1"] >img[src*="gif"]
+##a[href*="://2"] >img[src*="gif"]
+##a[href*="://3"] >img[src*="gif"]
+##a[href*="://4"] >img[src*="gif"]
+##a[href*="://0"] >img[src*="gif"]
+
+//三个
+##div >a[target="_blank"] >img[width*="100"]
+##div >a[target="_blank"] >img[src*="gif"][src*="sinaimg"]
+##div[style*="fixed"] >a[target="_blank"] >img
+
+##a[target="_blank"] >div >img[style*="100"]
+
+##center >a[target="_blank"] >img
+
+//连续
+##a[href*=":1"][target*="_blank"]~a
+##a[href*=":0"][target*="_blank"]~a
+##a[href*=":2"][target*="_blank"]~a
+##a[href*=":3"][target*="_blank"]~a
+##a[href*=":4"][target*="_blank"]~a
+##a[href*=":5"][target*="_blank"]~a
+##a[href*=":6"][target*="_blank"]~a
+##a[href*=":7"][target*="_blank"]~a
+##a[href*=":8"][target*="_blank"]~a
+##a[href*=":9"][target*="_blank"]~a
+
+
+
+
+
+
 
 
 ||tanx.com^$third-party,domain=~1688.com|~alimama.com|~tmall.com|~www.taobao.com
@@ -34,6 +160,7 @@ baidu.com##.afd-item
 /afd/entry
 wk.baidu.com##IMG[src*='edu-wenku.bdimg.com']
 baidu.com##.afd-item
+pos.baidu.com
 !!阿里家
 m.uczzd.cn##DIV[data-ad_url*="http"]
 iflow.uc.cn##div.huichuan-outside-ad
@@ -186,4 +313,5 @@ alicdn.com/imgextra/*/=_!!*.jpg
 *cnzz*.gif
 
 www.95598.cn##div#xiaoI,li.feedBack,li#topBtn
-
+http://w.junqingguanchashi.net/xs/*.jpg
+w.junqingguanchashi.net##a[href*='/xs/demo']
