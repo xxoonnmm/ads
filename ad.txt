@@ -3,7 +3,7 @@
 ! Title: hkad
 ! Expires: 1 days
 ! Description: Filter for all known mobile ad networks. Useful for mobile devices.
-! Version: 20200923
+! Version: 20200930
 
 //单一
 ##.duilian_con
@@ -188,7 +188,6 @@ sina.cn##div.ad_baner.j_imgdelay,section > div.article_push,div.advertise,[class
 ||pfp.sina.net/ea/ad/
 ||sa.sina.cn^
 ||sina.com.cn/litong/
-ent.sina.cn##IMG[src*='n.sinaimg.cn']
 !!360
 so.com##div[class*='ad-card'],.cmclk,DIV[class*='tg-wrap']
 m.news.so.com##article[data-type*='ad_mcom']
