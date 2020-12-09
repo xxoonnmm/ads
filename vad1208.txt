@@ -1,0 +1,96 @@
+[Adblock Plus 2.0]
+! Checksum: i/SxZCZ0v5YxyqX3VrPQsY
+! Title: vad1
+! Expires: 1 days
+! Description: Filter for all known mobile ad networks. Useful for mobile devices.
+! Version: 20201125
+##script[src*="?"]+div[style*="z-index"]
+##[id*="_"][class*="_"][classname*="_"]~[id*="_"][class*="_"][classname*="_"]
+##style+div >a[href*="?"] >img[src*="gif"]
+##div >div >div~img[src*="gif"]
+##div[id*="_0_0"]~div[id*="_"]
+##div[class*="_0_0"]~div[class*="_"]
+##center >a[target="_blank"] >img
+##a[target="_blank"] >div >img[style*="100"]
+##div[style*="fixed"] >a[target="_blank"] >img
+##div >a[target="_blank"] >img[src*="gif"][src*="sinaimg"]
+##div >a[target="_blank"] >img[width*="100"]
+##a[href*="://0"] >img[src*="gif"]
+##a[href*="://4"] >img[src*="gif"]
+##a[href*="://3"] >img[src*="gif"]
+##a[href*="://2"] >img[src*="gif"]
+##a[href*="://1"] >img[src*="gif"]
+##a[href*="://8"] >img[src*="gif"]
+##a[href*="://7"] >img[src*="gif"]
+##a[href*="://6"] >img[src*="gif"]
+##a[href*="://5"] >img[src*="gif"]
+##a[href*="://9"] >img[src*="gif"]
+##a[href*="www.9"][target*="_blank"] >img[src*="gif"]
+##a[href*="www.8"][target*="_blank"] >img[src*="gif"]
+##a[href*="www.7"][target*="_blank"] >img[src*="gif"]
+##a[href*="www.6"][target*="_blank"] >img[src*="gif"]
+##a[href*="www.5"][target*="_blank"] >img[src*="gif"]
+##a[href*="www.4"][target*="_blank"] >img[src*="gif"]
+##a[href*="www.3"][target*="_blank"] >img[src*="gif"]
+##a[href*="www.2"][target*="_blank"] >img[src*="gif"]
+##a[href*="www.1"][target*="_blank"] >img[src*="gif"]
+##a[href*="www.0"][target*="_blank"] >img[src*="gif"]
+##a[href*=":9"][target] >img[src*="gif"]
+##a[href*=":8"][target] >img[src*="gif"]
+##a[href*=":7"][target] >img[src*="gif"]
+##a[href*=":6"][target] >img[src*="gif"]
+##a[href*=":5"][target] >img[src*="gif"]
+##a[href*=":4"][target] >img[src*="gif"]
+##a[href*=":3"][target] >img[src*="gif"]
+##a[href*=":2"][target] >img[src*="gif"]
+##a[href*=":1"][target] >img[src*="gif"]
+##a[href*=":0"][target] >img[src*="gif"]
+##a[href*=".1"][target*="_blank"] >img[src*="gif"]
+##a[href*="s.click.taobao.com/"] >img[src]
+##a[href*="ReUrl"][target][onclick] >img
+##a[href="register"] >img
+##a[href*="javascript"] >img[src*="gif"][style*="18px"]
+##a[href*="javascript"][onclick] >img
+##a[target="_blank"] >img[src*="gif"][src*="alicdn"]
+##a[target="_blank"] >img[src*="sinaimg"]:not([style*="rgb("]):not([alt])
+##a[target="_blank"] >img[src*="gif"][src*="cdn.phpstudyimg.com"]
+##a[target="_blank"] >img[src*="gif"][src*="kanjiantu"]
+##a[target="_blank"] >img[src*="ss-x7"]
+##a[target="_blank"] >img[src*="xhtml"]
+##a[target="_blank"] >img[style*="width:100"]
+##a[target="_blank"] >img[style*="width: 100"][src*="gif"]
+##a[target="_blank"] >img[width*="100"]:not([style*="rgb("])
+##a[target="_blank"] >img[src*="gif"][style*="important"][height*="132.5"]
+##a[style*="fixed"][target] >img
+##a[style*="important"] >img
+##a[rel*="nofollow"] >img:not([alt])
+##p[onclick] >img[style*="width: 100"]
+
+##p[onclick] >img[style*="width:100"]
+##p[onclick] >img[width*="100"]
+##p[onclick] >img[width*="100"]:not([style*="rgb("])
+##[onclick][data-url] >img
+##[onclick][data-href] >img
+##[style*="fixed"][style*="block"] >img
+##[style*="fixed"][style*="z-index"] >img
+##li >img[src*="cbu01.alicdn.com/img/ibank/"]
+##li >img[src*="cbu01.alicdn.com/img/ibank/"][alt]
+##div[style*="z-index"] >div[style*="url("][style*="z-index"]
+##span[id] >div[onclick*="window"]
+##span[id] >div[style*="gif"]
+##div[src*="pos.baidu.com"]
+##div[class*="Ad"]:not([class*="Add"]):not([class*="service"]):not([style*="bkimg.cdn.bcebos.com"])
+##div[class*="ad"]:not([class*="add"]):not([class*="ade"]):not([class*="ead"]):not([class*="service"]):not([class*="rad"]):not([class*="oad"]):not([class*="pane"]):not([class*="tab"]):not([class*="adi"]):not([class*="had"]):not([class*="play"]):not([class*="adg"]):not([class*="ady"]):not([class*="adr"]):not([class*="adm"]):not([class*="sad"]):not([class*="pad"]):not([class*="mip"]):not([class*="ads"]):not([class*="ada"])
+##script[src*="pos.baidu.com"]
+##img[style*="112.5"]
+##iframe[src*="pos.baidu.com"]
+##iframe[src*="Linux"]
+##[style*="important"][style*="url("]
+##[onload*="u()"]
+##[class*="adsbygoogle"]
+##[id*="BAIDU_DUP"]
+##.gg
+##brde[id]
+##.brde
+##ins[id]
+##.duilian_con
