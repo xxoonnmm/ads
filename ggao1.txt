@@ -1,0 +1,91 @@
+﻿.duilian_con
+##ins[id]
+.brde
+##brde[id]
+.gg
+##[id*="BAIDU_DUP"]
+##[class*="adsbygoogle"]
+##[onload*="u()"]
+##[style*="important"][style*="url("]
+##iframe[src*="Linux"]
+##iframe[src*="pos.baidu.com"]
+##img[style*="112.5"]
+##div[src*="pos.baidu.com"]
+##span[id] >div[style*="gif"]
+##span[id] >div[onclick*="window"]
+##div[style*="z-index"] >div[style*="url("][style*="z-index"]
+##li >img[src*="cbu01.alicdn.com/img/ibank/"][alt]
+##li >img[src*="cbu01.alicdn.com/img/ibank/"]
+##[style*="fixed"][style*="z-index"] >img
+##[style*="fixed"][style*="block"] >img
+##[onclick][data-href] >img
+##[onclick][data-url] >img
+##p[onclick] >img[width*="100"]:not([style*="rgb("])
+##p[onclick] >img[width*="100"]
+##p[onclick] >img[style*="width:100"]
+##p[onclick] >img[style*="width: 100"]
+##a[rel*="nofollow"] >img:not([alt])
+##a[style*="important"] >img
+##a[style*="fixed"][target] >img
+##a[target="_blank"] >img[src*="gif"][style*="important"][height*="132.5"]
+##a[target="_blank"] >img[width*="100"]:not([style*="rgb("])
+##a[target="_blank"] >img[style*="width: 100"][src*="gif"]
+##a[target="_blank"] >img[style*="width:100"]
+##a[target="_blank"] >img[src*="xhtml"]
+##a[target="_blank"] >img[src*="ss-x7"]
+##a[target="_blank"] >img[src*="gif"][src*="kanjiantu"]
+##a[target="_blank"] >img[src*="gif"][src*="cdn.phpstudyimg.com"]
+##a[target="_blank"] >img[src*="sinaimg"]:not([style*="rgb("]):not([alt])
+##a[target="_blank"] >img[src*="gif"][src*="alicdn"]
+##a[href*="javascript"][onclick] >img
+##a[href*="javascript"] >img[src*="gif"][style*="18px"]
+##a[href="register"] >img
+##a[href*="ReUrl"][target][onclick] >img
+##a[href*="s.click.taobao.com/"] >img[src]
+##a[href*=".1"][target*="_blank"] >img[src*="gif"]
+##a[href*=":0"][target] >img[src*="gif"]
+##a[href*=":1"][target]  >img[src*="gif"]
+##a[href*=":2"][target] >img[src*="gif"]
+##a[href*=":3"][target] >img[src*="gif"] >a[href*=":4"][target] >img[src*="gif"]
+##a[href*=":5"][target] >img[src*="gif"]
+##a[href*=":6"][target] >img[src*="gif"]
+##a[href*=":7"][target] >img[src*="gif"]
+##a[href*=":8"][target] >img[src*="gif"]
+##a[href*=":9"][target] >img[src*="gif"]
+##a[href*="www.0"][target*="_blank"] >img[src*="gif"]
+##a[href*="www.1"][target*="_blank"] >img[src*="gif"]
+##a[href*="www.2"][target*="_blank"] >img[src*="gif"]
+##a[href*="www.3"][target*="_blank"] >img[src*="gif"]
+##a[href*="www.4"][target*="_blank"] >img[src*="gif"]
+##a[href*="www.5"][target*="_blank"] >img[src*="gif"]
+##a[href*="www.6"][target*="_blank"] >img[src*="gif"]
+##a[href*="www.7"][target*="_blank"] >img[src*="gif"]
+##a[href*="www.8"][target*="_blank"] >img[src*="gif"]
+##a[href*="www.9"][target*="_blank"] >img[src*="gif"]
+##a[href*="://9"] >img[src*="gif"]
+##a[href*="://5"] >img[src*="gif"]
+##a[href*="://6"] >img[src*="gif"]
+##a[href*="://7"] >img[src*="gif"]
+##a[href*="://8"] >img[src*="gif"]
+##a[href*="://1"] >img[src*="gif"]
+##a[href*="://2"] >img[src*="gif"]
+##a[href*="://3"] >img[src*="gif"]
+##a[href*="://4"] >img[src*="gif"]
+##a[href*="://0"] >img[src*="gif"]
+##div >a[target="_blank"] >img[width*="100"]
+##div >a[target="_blank"] >img[src*="gif"][src*="sinaimg"]
+##div[style*="fixed"] >a[target="_blank"] >img
+##a[target="_blank"] >div >img[style*="100"]
+##center >a[target="_blank"] >img
+##div[class*="_0_0"] ~ div[class*="_"]
+##div[id*="_0_0"] ~ div[id*="_"]
+##div >div >div ~ img[src*="gif"]
+##style + div >a[href*="?"] >img[src*="gif"]
+##[id*="_"][class*="_"][classname*="_"] ~ [id*="_"][class*="_"][classname*="_"]
+##script[src*="?"] + div[style*="z-index"]
+##a[style*="z-index"] >div[style*="z-index"]
+##div[onclick][data-href] >img[src*=".gif.webp"][style*="important"]
+##div >div >div[style*="url("] >div[onclick][data-href]
+##div[style*="url("] >div[onclick][data-href]
+##iframe[width*="424"][height*="128"][scrolling*="no"][frameborder*="0"]
+##div[style*="url("][style*="132.5"][style*="gif"]
